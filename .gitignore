@@ -1,0 +1,15 @@
+# Compiled files
+bin/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database config (optional - if you want to hide password)
+# src/DatabaseConnection.java
