@@ -35,8 +35,8 @@ The system uses 5 interconnected tables:
 
 ### Prerequisites
 - Java JDK 17 or higher
-- MySQL Server
-- MySQL Workbench
+- MySQL Server 
+- MySQL Workbench Required
 
 ### Setup Instructions
 
